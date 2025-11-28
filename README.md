@@ -8,6 +8,7 @@
 
 Currently pursuing my Bachelor's degree in Computer Science at the Norwegian University of Science and Technology. Passionate about coding, problem-solving, and building innovative software solutions.
 
+[![Mats's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatsVestvik)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 *Check out my website to learn more about me and my projects!*
