@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Mats%20Vestvik&fontColor=d6ace6&animation=twinkling&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Mats%20Orpia%20Vestvik&fontColor=d6ace6&animation=twinkling&theme=tokyonight)
 
 
 **Computer Science Student** @ NTNU (2025-2028)
